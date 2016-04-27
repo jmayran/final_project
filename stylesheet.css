@@ -58,12 +58,22 @@ img {
 
 .logos {
     padding-top: 5%;
-    padding-bottom: 40%;
+    padding-bottom: 15%;
     padding-left: 5%;
     border-style: solid;
     border-color: black;
     background-color: #F8F8F8;
 }
+
+.bill {
+    padding-left: 20%;
+}
+
+.streamingimg {
+    padding-left: 25%;
+}
+
+
 
 .container
 {
